@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/fedoradevs/Fedfield/refs/heads/main/Fedfield.lua'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Feds FTAP (BROKEN)",
